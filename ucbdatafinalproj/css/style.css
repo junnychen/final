@@ -1,0 +1,21 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.map_area{
+  height: 600px;
+  width:200px
+  left:5px 
+}
+body,
+html {
+  height: 100%;
+}
+
+#table-area{
+  height: 600px;
+  width:200px
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
